@@ -1,8 +1,8 @@
 # 💫 About Me:
- ## 👋 Hi, I’m @Metusalen<br><br>    👀 I’m interested in Bioinformatics and data science   
- ## 🌱 I’m currently learning Python & R   
- ## 📫 How to reach me: www.linkedin.com/in/metusalen-da-silva-rocha-331866217
- ## ⚡ Fun fact: My name was supposed to be Matusalém(Methuselah), but there was an error during registration at the registry office, resulting in Metusalen.
+ ### 👋 Hi, I’m @Metusalen<br><br>    👀 I’m interested in Bioinformatics and data science   
+ ### 🌱 I’m currently learning Python & R   
+ ### 📫 How to reach me: www.linkedin.com/in/metusalen-da-silva-rocha-331866217
+ ### ⚡ Fun fact: My name was supposed to be Matusalém(Methuselah), but there was an error during registration at the registry office, resulting in Metusalen.
 
 
 ## 🌐 Socials:
